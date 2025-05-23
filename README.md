@@ -4,7 +4,7 @@
 
 ## Vista previa
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fdac5c9f-bb21-4301-a8d3-74335920bf3b" />
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/90bed01b-a67e-4d9b-aad5-7e49a8c0f9c5" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/90bed01b-a67e-4d9b-aad5-7e49a8c0f9c5" />
 
 
 Solución al reto [Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) de Frontend Mentor.
