@@ -1,6 +1,7 @@
 # Frontend Mentor - Results summary component Responsive
 
-## Visita mi solucion: - [Solucion al challenge](https://rdz-summary-component.netlify.app/)
+## Visita mi solucion 
+  - [Solucion al challenge](https://rdz-summary-component.netlify.app/)
 
 ## Vista previa
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fdac5c9f-bb21-4301-a8d3-74335920bf3b" />
