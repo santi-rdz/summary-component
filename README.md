@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component Responsive
 
-## Visita mi solucion: [Solucion al challenge](https://rdz-summary-component.netlify.app/)
+## Visita mi solucion: - [Solucion al challenge](https://rdz-summary-component.netlify.app/)
 
 ## Vista previa
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fdac5c9f-bb21-4301-a8d3-74335920bf3b" />
@@ -10,7 +10,7 @@
 Solución al reto [Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) de Frontend Mentor.
 
 ## Enlaces
-- [Live site](https://tu-usuario.github.io/results-summary-component)
+- [Live site](https://rdz-summary-component.netlify.app/)
 - [Reto en Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
 ## Tecnologías
